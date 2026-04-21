@@ -5,6 +5,18 @@ a Magma or MagmaClust model, using the [MagmaClustPy package](https://github.com
 
 Note that the package is in heavy development. Most features are not fully stable.
 
+## Installation
+
+You can run the library using conda with the wollowing commands:
+
+```bash
+conda create -n magma python=3.12
+conda activate magma
+pip install -r requirements.txt
+```
+
+Then you'll be able to execute and play with the various notebooks in the repository.
+
 ## Status of the pipelines:
 
 * ✅ **Magma** - Distinct inputs among tasks, Shared hyper-parameters
