@@ -26,9 +26,9 @@ Then you'll be able to execute and play with the various notebooks in the reposi
 * ⚠️ **Magma** - Shared inputs among tasks, Distinct hyper-parameters
   * mean-process hyper-parameters do not converge to the expected mean-process
 * ❌ **MagmaClust** - Distinct hyper-parameters, No cluster hyper-parameters
-  * bug chen predicting new tasks
+  * bug when predicting new tasks
 * ❌ **MagmaClust** - Distinct hyper-parameters, Cluster hyper-parameters
-  * bug chen predicting new tasks
+  * bug when predicting new tasks
 * ✅ **MagmaClust** - Shared hyper-parameters, No cluster hyper-parameters
   * ⚠️ weird behavior when predicting away from data
 * ✅ **MagmaClust** - Shared hyper-parameters, Cluster hyper-parameters
